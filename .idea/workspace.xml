@@ -2,17 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d02f538a-cfed-4384-895c-bc4c3a60538e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/controller/UserContoller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/service/UserService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="1jtt6pXsYnJK4lEQZHn2c8vUvXZ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +44,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BootDemo" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -34,11 +57,22 @@
       <option name="presentableId" value="Default" />
       <updated>1604635042150</updated>
       <workItem from="1604635046034" duration="667000" />
-      <workItem from="1604644696322" duration="238000" />
+      <workItem from="1604644696322" duration="1246000" />
+      <workItem from="1604648326489" duration="1023000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="409" y="163" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604649096380">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="409" y="163" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1604649096380" />
+    <state x="686" y="213" key="FileChooserDialogImpl" timestamp="1604647493495">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="686" y="213" key="FileChooserDialogImpl/0.0.1920.1032@0.0.1920.1032" timestamp="1604647493495" />
   </component>
 </project>
