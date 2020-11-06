@@ -2,12 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d02f538a-cfed-4384-895c-bc4c3a60538e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/controller/UserContoller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dao/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/entity/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Administrator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/DemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/common/DateUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/controller/UserContoller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/common/DateUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controller/UserContoller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dao/UserDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/entity/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/service/UserService.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +27,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -42,9 +53,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../BootDemo" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -58,7 +71,7 @@
       <updated>1604635042150</updated>
       <workItem from="1604635046034" duration="667000" />
       <workItem from="1604644696322" duration="1246000" />
-      <workItem from="1604648326489" duration="1023000" />
+      <workItem from="1604648326489" duration="4707000" />
     </task>
     <servers />
   </component>
@@ -66,13 +79,41 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="669" y="335" width="743" height="362" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1604650267697">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="669" y="335" width="743" height="362" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1604650267697" />
     <state x="409" y="163" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604649096380">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="409" y="163" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1604649096380" />
+    <state x="626" y="306" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604652262767">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="626" y="306" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1032@0.0.1920.1032" timestamp="1604652262767" />
     <state x="686" y="213" key="FileChooserDialogImpl" timestamp="1604647493495">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="686" y="213" key="FileChooserDialogImpl/0.0.1920.1032@0.0.1920.1032" timestamp="1604647493495" />
+    <state width="1864" height="715" key="GridCell.Tab.0.bottom" timestamp="1604653443242">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="715" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1604653443242" />
+    <state width="1864" height="715" key="GridCell.Tab.0.center" timestamp="1604653443242">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="715" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1604653443242" />
+    <state width="1864" height="715" key="GridCell.Tab.0.left" timestamp="1604653443242">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="715" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1604653443242" />
+    <state width="1864" height="715" key="GridCell.Tab.0.right" timestamp="1604653443242">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="715" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1604653443242" />
+    <state x="339" y="56" key="SettingsEditor" timestamp="1604651318608">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="339" y="56" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1604651318608" />
   </component>
 </project>
